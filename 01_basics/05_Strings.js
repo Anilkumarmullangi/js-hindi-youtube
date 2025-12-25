@@ -33,6 +33,9 @@ console.log(url.includes('anil'));
 console.log(gameName.split('-'));
 
 
+//these all are the changes
+
+
 
 
 
