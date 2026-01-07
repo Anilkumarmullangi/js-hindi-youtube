@@ -3,8 +3,8 @@ let score="anil"
 //console.log(typeof score)
 
 let valueInNumber =Number(score)
-//console.log(typeof valueInNumber)
-//console.log(valueInNumber)
+console.log(typeof valueInNumber)
+console.log(valueInNumber)
 
 /*
  "33" => 33
@@ -15,7 +15,7 @@ let valueInNumber =Number(score)
 let isLoggedIn=1;
 
 let BooleanIsloggedIn=Boolean (isLoggedIn)
-//console.log(BooleanIsloggedIn);
+console.log(BooleanIsloggedIn);
 
 /*
 1 => true ; false=> 0;
